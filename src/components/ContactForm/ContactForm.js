@@ -1,6 +1,6 @@
 import { Component } from "react";
 import { v4 as uuid } from "uuid";
-import s from "./ContactForm.module.css";
+import s from './ContactForm.module.css'
 
 const INITIAL_STATE = {
   name: "",
